@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mahitha 👋  
+### 🚀 Passionate about Machine Learning & Full-Stack Development  
 
-<!--
-**mahitha-2374/mahitha-2374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Currently pursuing Computer Science and Engineering** at **SRM University, AP**  
+💻 **Full-Stack Developer** | **Machine Learning Enthusiast**  
+🔭 **Exploring AI-driven solutions** and **building scalable applications**  
+📂 **Check out my projects:** [GitHub](https://github.com/mahitha-2374)  
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me  
+📫 **Email:** [mahithachowdary_namdigam@srmap.edu.in](mailto:mahithachowdary_namdigam@srmap.edu.in)  
+💼 **Know more about my experience:** [LinkedIn](https://www.linkedin.com/in/mahitha-namdigam-521572247/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Tech Stack & Interests  
+- 🌟 **Full-Stack Development** → React.js, Node.js, Express.js, MongoDB, PHP  
+- 📊 **Machine Learning & Data Science** → Python, Scikit-Learn, TensorFlow, Data Analytics  
+- 🔍 **Exploring** AI, ML, Computer Vision, and NLP  
+- 🍥 **Talk to me about** Programming, AI-ML, Data Science, and Tech Innovations  
+
+🚀 **Always open to exciting collaborations & new opportunities!**  
